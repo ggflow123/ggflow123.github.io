@@ -7,7 +7,7 @@ I am an incoming Ph.D. student at Rensselaer Polytechnic Institute.
 
 ## Research Interests
 
-- **Music Generation:** generate neural symbolic represenations of music and music theory as guidance.
+- **Music Generation:** generate neural symbolic represenations of music and use music theory as guidance.
 
 ## News
 
