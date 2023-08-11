@@ -1,10 +1,9 @@
 ---
 layout: homepage
 ---
-
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Rensselaer Polytechnic Institute.
 
 ## Research Interests
 
