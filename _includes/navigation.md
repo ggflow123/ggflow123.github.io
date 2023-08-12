@@ -1,1 +1,3 @@
-{% for link in site.data.navigation.main %} {% if link.right %} [{{ link.title }}](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/_includes/%7B%7B%20link.url%20%7D%7D) {% else %} [{{ link.title }}](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/_includes/%7B%7B%20link.url%20%7D%7D) {% endif %} {% endfor %}
+{% for link in site.data.navigation.main %}
+    [{{ link.title }}]({{ link.url }})
+{% endfor %}
