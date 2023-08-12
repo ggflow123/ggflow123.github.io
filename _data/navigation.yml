@@ -1,7 +1,7 @@
 main:
 
   - title: "Contact"
-    url: ./#contact 
+    url: "#contact" 
     #right: true 
 
   #- title: "Services"
@@ -20,4 +20,4 @@ main:
   #  url: ./#news
 
   - title: "Bio"
-    url: ./#about-me
+    url: "#about-me"
