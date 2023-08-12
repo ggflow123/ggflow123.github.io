@@ -1,9 +1,9 @@
 ---
 layout: homepage
 ---
-`<section id="about-me"></section>`
+<h1 id="about-me"></h1>
 
-## About Me
+## Short Bio
 
 I am an incoming Ph.D. student at Rensselaer Polytechnic Institute. 
 
@@ -17,6 +17,6 @@ I am an incoming Ph.D. student at Rensselaer Polytechnic Institute.
 
 {% include_relative _includes/services.md %}
 
-`<section id="contact"></section>`
+<h2 id="contact"></h2>
 
 {% include_relative _includes/contact.md %}
