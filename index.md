@@ -3,9 +3,9 @@ layout: homepage
 ---
 <h1 id="about-me"></h1>
 
-## Short Bio
+## About Me
 
-I am an incoming Ph.D. student at Rensselaer Polytechnic Institute. 
+I am an incoming Ph.D. student at Rensselaer Polytechnic Institute.
 
 ## Research Interests
 
