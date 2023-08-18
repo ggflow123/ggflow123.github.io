@@ -5,7 +5,9 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student at Rensselaer Polytechnic Institute.
+I am an incoming Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science), where I am fortunate to be advised by Prof. [Ziniu Hu](https://acbull.github.io). 
+
+Prior to that, I obtained my master's degree in computer science from New York University. I received my CS, Mathematics and Piano Performace Bachelor degree from [Oberlin College and Conservatory](https://www.oberlin.edu), fortunate to be advised by Prof. [Sam Taggart](http://samueltaggart.com) (CS) and Prof. [Peter Takács](https://www.oberlin.edu/peter-takacs) (Piano).
 
 ## Research Interests
 
