@@ -15,7 +15,7 @@ Prior to that, I obtained my master's degree in computer science from [Courant I
 
 ## News
 
-- **[Aug. 2023] I will be a TA of Computer Organization Course at RPI.**
+- **[Aug. 2023] I am a TA of Computer Organization at RPI.**
 
 {% include_relative _includes/services.md %}
 
