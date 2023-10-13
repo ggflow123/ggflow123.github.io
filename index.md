@@ -9,7 +9,7 @@ I am a first year Ph.D. student in Computer Science at [Rensselaer Polytechnic I
 
 Prior to that, I obtained my master's degree in computer science from [Courant Institute of Mathematics at New York University](https://cims.nyu.edu/dynamic/). I received my CS, Mathematics and Piano Performace Bachelor degree from [Oberlin College and Conservatory](https://www.oberlin.edu), fortunate to be advised by Prof. [Sam Taggart](http://samueltaggart.com) (CS) and Prof. [Peter Takács](https://www.oberlin.edu/peter-takacs) (Piano).
 
-Fee free to check out [my solo piano performance](https://www.youtube.com/watch?v=GyKiIHCR_7Q).
+Feel free to check out [my solo piano performance](https://www.youtube.com/watch?v=GyKiIHCR_7Q).
 
 ## Research Interests
 
