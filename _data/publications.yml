@@ -1,9 +1,9 @@
 main:
 
   - title: Symbolic Music Generation with Plug-and-Play Rule-Guided Diffusion Models
-    authors: Yujia Huang, <strong>Yuanzhe Liu*</strong>, Adishree Ghatare, Ziniu Hu, Qinsheng Zhang, Chandramouli Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue
+    authors: Yujia Huang, Adishree Ghatare, <strong>Yuanzhe Liu*</strong>, Ziniu Hu, Qinsheng Zhang, Chandramouli Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue
     notes: Under Review
-    
+
   - title: Algorithmic Delegation
     authors: Ali Khodabakhsh, <strong>Yuanzhe Liu*</strong>, Emmanouil Pountourakis, Samuel Taggart, Yichi Zhang
     pdf: ../assets/files/Algorithmic_Delegation.pdf
