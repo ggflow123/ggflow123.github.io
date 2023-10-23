@@ -7,6 +7,7 @@ main:
   - title: Algorithmic Delegation
     authors: Ali Khodabakhsh, <strong>Yuanzhe Liu*</strong>, Emmanouil Pountourakis, Samuel Taggart, Yichi Zhang
     pdf: ../assets/files/Algorithmic_Delegation.pdf
+    notes: Previous Version (2018)
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
