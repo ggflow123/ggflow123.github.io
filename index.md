@@ -16,13 +16,12 @@ Feel free to check out [my solo piano performance](https://www.youtube.com/watch
 (Controllable and Interactive) Generative Models (autoregressive, diffusion and others), especially for creative art and **music**, with the goal of facilitating artists and composers with AI models.
 In the past, I did research on approximation theory and economic game theory
 
-## News
+## Teaching Experience
 
-- **[Aug. 2023] I am a TA of Computer Organization at RPI.**
+- **[Aug. 2023 - Dec. 2023] Teaching Assistant for RPI CSCI 2500: Computer Organization.**
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
 
 <h2 id="contact"></h2>
