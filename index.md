@@ -1,7 +1,6 @@
 ---
 layout: homepage
 ---
-<h1 id="about-me"></h1>
 
 ## About Me
 
@@ -24,4 +23,4 @@ In the past, I did research on approximation theory and economic game theory
 
 {% include_relative _includes/services.md %}
 
-<h2 id="contact"></h2>
+{% include_relative _includes/contact.md %}

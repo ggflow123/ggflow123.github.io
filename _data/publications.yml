@@ -4,7 +4,8 @@ main:
     authors: Yujia Huang, Adishree Ghatare, <strong>Yuanzhe Liu*</strong>, Ziniu Hu, Qinsheng Zhang, Chandramouli Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue
     notes: Under Review
     pdf: https://arxiv.org/pdf/2402.14285.pdf 
-    code: https://scg-rule-guided-music.github.io/
+    code: https://github.com/yjhuangcd/rule-guided-music
+    page: https://scg-rule-guided-music.github.io/
 
   - title: Algorithmic Delegation
     authors: Ali Khodabakhsh, <strong>Yuanzhe Liu*</strong>, Emmanouil Pountourakis, Samuel Taggart, Yichi Zhang
