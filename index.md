@@ -1,7 +1,6 @@
 ---
 layout: homepage
 ---
-
 ## About Me
 
 I am a first year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science), where I am fortunate to be advised by Prof. [Ziniu Hu](https://acbull.github.io).
@@ -24,3 +23,5 @@ In the past, I did research on approximation theory and economic game theory
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
+
+Thanks for the amazing [website template](https://github.com/yaoyao-liu/yaoyao-liu.github.io).

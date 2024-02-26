@@ -7,6 +7,11 @@ main:
     code: https://github.com/yjhuangcd/rule-guided-music
     page: https://scg-rule-guided-music.github.io/
 
+  - title: Automated Detection and Segmentation of Internal Carotid Artery Calcifications on CBCT Images Using Deep Neural Networks
+    authors: C. Qiang, A.V. Keenan, <strong>Y. Liu*</strong>, Y. Kou, S. Khurana
+    conference: International Associate For Dental, Oral, and Craniofacial Research <strong>IADR</strong>, 2024
+    notes: Abstract Presentation
+
   - title: Algorithmic Delegation
     authors: Ali Khodabakhsh, <strong>Yuanzhe Liu*</strong>, Emmanouil Pountourakis, Samuel Taggart, Yichi Zhang
     pdf: ../assets/files/Algorithmic_Delegation.pdf
