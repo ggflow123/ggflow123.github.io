@@ -3,7 +3,7 @@ main:
   - title: Symbolic Music Generation with Non-Differentiable Rule-Guided Diffusion
     authors: Yujia Huang, Adishree Ghatare, <strong>Yuanzhe Liu*</strong>, Ziniu Hu, Qinsheng Zhang, Chandramouli Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue
     #notes: Under Review
-    conference_short: ICML
+    #conference_short: ICML
     conference:  International Conference on Machine Learning ( <strong>ICML</strong> 2024)
     pdf: https://arxiv.org/pdf/2402.14285.pdf 
     code: https://github.com/yjhuangcd/rule-guided-music
