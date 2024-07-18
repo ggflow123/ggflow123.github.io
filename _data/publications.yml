@@ -1,5 +1,9 @@
 main:
 
+  - title: Dataset distillation for offline reinforcement learning
+    authors: Jonathan Light*, Yuanzhe Liu*, Ziniu Hu
+    conference: ICML 2024 Workshop DMLR
+  
   - title: Symbolic Music Generation with Non-Differentiable Rule-Guided Diffusion
     authors: Yujia Huang, Adishree Ghatare, <strong>Yuanzhe Liu*</strong>, Ziniu Hu, Qinsheng Zhang, Chandramouli Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue
     #notes: Under Review
