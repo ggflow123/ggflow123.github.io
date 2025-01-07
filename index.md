@@ -11,11 +11,14 @@ Feel free to check out [my solo piano performance](https://www.youtube.com/watch
 
 ## Research Interests
 
+Large Language Model for Code Optimization.
+
 (Controllable and Interactive) Generative Models (autoregressive, diffusion and others), especially for creative art and **music**, with the goal of facilitating artists and composers with AI models.
 In the past, I did research on approximation theory and economic game theory
 
 ## Teaching Experience
 
+- **[Aug. 2024 - Dec. 2024] Teaching Assistant for RPI CSCI 4961: Network Security and Defense.**
 - **[Aug. 2023 - Dec. 2023] Teaching Assistant for RPI CSCI 2500: Computer Organization.**
 
 {% include_relative _includes/publications.md %}
