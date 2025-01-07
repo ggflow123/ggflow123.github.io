@@ -1,11 +1,11 @@
 main:
-  - title: PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making
-    authors: Jonathan Light, Sixue Xing, <strong>Yuanzhe Liu*</strong>, Weiqin Chen, Min Cai, Xiusi Chen, Guanzhi Wang, Wei
-Cheng, Yisong Yue, Ziniu Hu
+
+  - title: "PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making"
+    authors: Jonathan Light, Sixue Xing, <strong>Yuanzhe Liu*</strong>, Weiqin Chen, Min Cai, Xiusi Chen, Guanzhi Wang, Wei Cheng, Yisong Yue, Ziniu Hu
     conference: NeurIPS 2024 Language Gamification Workshop
     pdf: https://arxiv.org/pdf/2411.15998
 
-  - title: Fastcoder: Building AI Code Optimizer via Orchestrated Data Construction and Evaluation
+  - title: "Fastcoder: Building AI Code Optimizer via Orchestrated Data Construction and Evaluation"
     authors: Tim Kaler, Ryan Deng, <strong>Yuanzhe Liu*</strong>, Xuhao Chen, Yao Ma, Charles Leiserson, Jie Chen
     notes: Under Review
 
