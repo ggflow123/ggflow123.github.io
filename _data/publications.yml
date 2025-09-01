@@ -1,7 +1,7 @@
 main:
   - title: "Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve"
     authors: <strong>Yuanzhe Liu*</strong>, Ryan Deng, Tim Kaler, Xuhao Chen, Charles E. Leiserson, Yao Ma, Jie Chen
-    arxiv: https://www.arxiv.org/abs/2505.23946
+    pdf: https://www.arxiv.org/abs/2505.23946
     notes: Under Review
 
   - title: "PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making"
