@@ -1,7 +1,7 @@
 main:
   - title: "Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve"
     authors: <strong>Yuanzhe Liu*</strong>, Ryan Deng, Tim Kaler, Xuhao Chen, Charles E. Leiserson, Yao Ma, Jie Chen
-    conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems( <strong>NeurIPS</strong> 2025, Poster)
+    conference: Conference on Neural Information Processing Systems( <strong>NeurIPS</strong> 2025, Poster)
     pdf: https://www.arxiv.org/abs/2505.23946
     # notes: Under Review
 
